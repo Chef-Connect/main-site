@@ -1,0 +1,345 @@
+body{
+    font-family: "Montserrat";
+}
+/*middle-container*/
+.img{
+    background-image:url("../../../assets/img/plate-white.jpg");
+    height:40vh;
+    width:100%;
+    background-attachment: fixed;
+    background-size:cover; 
+    background-position-y: 130%;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index:-1;
+}
+.img-filter{
+    background-color:rgba(0,0,0,0.4);
+    height:40vh;
+    width:100%;
+    z-index:-1;
+    position:relative;
+}
+.img-filter h1{
+    color:white;
+    position:absolute;
+    top:50%;
+    transform: translateY(-50%);
+    width:100%;
+    font-size:40px;
+    font-weight:700;
+    text-align:center;
+}
+/*bottom-container*/
+.page2container{
+    text-align: center;
+    position:relative;
+}
+.background-image{
+    z-index:-1;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    width:50%;
+    margin:40px 0;
+}
+.page2container .main-container{
+    margin:auto;
+    font-size: 0;
+    text-align: center;
+    padding:40px;
+}
+.page2container .title{
+    width:300px;
+    margin:auto;
+    margin-left:140px;
+}
+.page2container .description-container{
+    display:inline-block;
+    width:27%;
+    padding:45px 0;    
+    text-align: center;
+    vertical-align: middle;
+    transition:all 0.3s ease-in-out;
+    color:rgb(50,50,50);
+    border-radius: 7px;
+}
+.page2container .description-container h2{
+    text-align:center;
+    font-size:26px;
+    text-transform:uppercase;
+    margin: 30px 0 8px 0;
+    color:rgb(243,38,59);
+    font-weight: 700;
+}
+.page2container .description-container p{   
+    font-size: 19px;
+    font-weight: 700;
+    color:rgb(70,70,70);
+}
+.page2container .picto{
+    width:80px;
+}
+/* BOX CONTAINER */
+.box-container{
+    height:450px;
+    vertical-align:middle;
+    text-align:center;
+    width:100%;   
+    position:relative;
+    margin:12px 0 0 0;
+}
+.box-image.australia{
+    background-image: url("../../../assets/img/employer-plate.jpeg");
+    background-size:cover;
+    background-position-y: 30%;
+    background-attachment: fixed;
+}
+.box-image.service{
+    background-image: url("../../../assets/img/employer-kitchen.jpg");  
+    background-size:cover;
+    background-position-y: 52%;
+    background-attachment: fixed;
+}
+.box-filter{
+    background-color:rgba(0,0,0,0.6);
+    width:100%;
+    height:100%;
+}
+.content-container{
+    position:absolute;
+    top:50%;
+    width:100%;
+    text-align: center;
+    transform: translateY(-50%);
+}
+.content-container .title{
+    font-size:34px;
+    font-weight: 700;
+    margin: 15px 0 15px 0;
+    color:white;
+}
+.content-container p{
+    font-size:16px;
+    font-weight: 400;
+    padding:10px;
+    line-height: 26px;
+    color:white;
+}
+.content-container .bold{
+    font-weight: 700;
+}
+.content-container .picto{
+    height:40px;
+    margin:0 0 18px 0;
+}
+/*transition formulaire*/
+.transition-page{
+    text-align:center;
+}
+.transition-page .title{
+    width:300px;
+    margin-left:140px;
+    padding:60px 0 60px 0;
+}
+/*formulaire*/
+.form-container{
+    margin:auto;
+    text-align:center;
+
+}
+.left-container{
+    display: inline-block;
+}
+.right-container{
+    display: inline-block;
+    vertical-align: top;
+    padding-left:30px;
+}
+.form-image{
+    background-image:url("../../../assets/img/working-australia.jpg");
+    background-size:cover;
+    height:100%;
+    width:100%;
+}
+.form-filter{
+    background-color:rgba(0,0,0,0.7);
+    height:100%;
+    width:100%;
+}
+.input{
+    display: block;
+    margin:auto;
+    height:50px;
+    width:400px;
+    border:none;
+    background-color:white;
+    margin-bottom:20px;
+    border-radius:5px;
+    font-size:18px;
+    font-weight:700;
+    font-family: "Montserrat";
+}
+.form-container .border{
+    display:inline-block;
+    padding:50px 10px;
+    border-radius:5px;
+}
+.form-container h3{
+    color:white;
+    text-transform:uppercase;
+    font-size:14px;
+    padding:5px;
+    text-align:left;
+    font-weight: 700;
+}
+.submit-button{
+    display:block; 
+    width:300px;  
+    margin:20px auto 0 auto; 
+    background-color: rgb(243,38,59);
+    border: 2px solid rgb(243,38,59);
+    position:relative;
+    border-radius:5px;
+    color:white;
+    text-transform: uppercase;
+    font-size:16px;
+    font-weight:700;
+    padding:14px 0;
+    transition:all 0.2s ease-in-out; 
+    cursor:pointer; 
+}
+.additional-input{
+    height:140px;
+    width:400px;
+    background-color:white;
+    border-radius:5px;
+    font-size:18px;
+    font-weight:700;
+    font-family: "Montserrat";
+}
+/* POP up*/
+.note-container{
+  position:fixed;
+  top:0;
+  left:0;
+  height:100vh;
+  width:100%;
+  background-color: rgba(0,0,0,0.7);
+  display:none;    
+}
+.note-container.thanks-container{
+    display:block;
+}
+.note-container.show-warning{
+    display: block;
+}
+.note-content{
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    padding:50px 40px;
+    background-color:white;
+    border-radius: 5px;
+    text-align: center;
+    color:rgb(50,50,50);
+    animation:popupAppear 0.3s ease-in-out;
+}
+.note-content i{
+    font-size: 72px;
+    color:rgb(243,38,59);
+
+}
+.note-content h1{
+    text-transform: uppercase;
+    font-size: 34px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    margin:20px 0 30px 0;
+
+}
+.note-content p{
+    font-size: 20px;
+    line-height: 30px;
+}
+.submit-button:hover{
+    transform:scale(1.05);
+}
+@keyframes popupAppear{
+    0%{
+        opacity:0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+.written-title{
+    display:none;
+    font-size:26px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color:rgb(70,70,70);
+    padding:30px 0;
+}
+/* MEDIA QUERIES */
+@media screen and (max-width: 700px){
+    .page2container .title{
+        display:none;
+    }
+    .written-title{
+        display: block;
+        font-weight: 700;
+    }
+    .page2container .description-container h2{
+        font-weight: 700;
+    }
+    .page2container .description-container{
+        width:33%;
+    }
+}
+@media screen and (max-width: 510px){
+    .img{
+        background-attachment: initial;
+    }
+    .description-container .picto{
+        display: none;
+    }
+    .page2container .main-container .description-container{
+        display: block;
+        margin:auto;
+        padding:0px 0 20px 0;
+        width:100%;
+    }
+    .box-container.box-image{
+        background-attachment:initial;
+    }
+    .transition-page .title{
+        display:none;
+    }
+    .form-filter .written-title{
+        display:block;
+        color:white;
+    }
+    .form-image{
+        background-size:0;
+    }
+    .form-filter{
+        background-color:rgb(73,83,91);
+        margin-bottom:20px;
+    }
+    .form-container .right-container{
+        padding-left:0;
+    }
+    .form-container .input{
+        width:300px;
+    }
+    .information-container .additional-input{
+        width:320px;
+    }
+    .hidden-content{
+        display: none;
+    }
+}

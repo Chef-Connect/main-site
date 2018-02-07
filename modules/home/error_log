@@ -1,0 +1,336 @@
+[08-Jan-2018 18:17:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:17:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:17:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:25:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:26:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:27:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:28:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 18:37:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 19:03:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 19:03:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[08-Jan-2018 19:09:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 01:04:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 10:53:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 13:15:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 16:32:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 16:32:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 18:39:43 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[09-Jan-2018 23:37:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 00:00:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 01:53:48 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 02:58:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 03:55:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 05:40:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 09:03:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 09:10:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 09:59:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 12:20:17 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 14:33:14 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 16:26:36 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 17:18:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[10-Jan-2018 23:26:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:4
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(4): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 4
+[12-Jan-2018 04:42:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 05:23:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 06:10:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 11:56:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 11:57:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 11:57:25 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 11:57:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 11:58:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 12:38:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 12:38:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 12:38:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 19:40:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 19:40:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 19:40:15 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 21:22:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 21:22:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 21:22:52 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 21:23:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 21:23:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[12-Jan-2018 23:48:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[13-Jan-2018 00:00:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[13-Jan-2018 00:23:56 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[13-Jan-2018 00:27:08 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[13-Jan-2018 02:58:20 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10
+[13-Jan-2018 09:42:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'SB_4BT2Qlkxvvaed'@'localhost' (using password: YES) in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php:10
+Stack trace:
+#0 /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php(10): PDO->__construct('mysql:host=loca...', 'SB_4BT2Qlkxvvae...', 'g!UNoT%*AG.V')
+#1 /home/rwuwi1oak0t8/public_html/modules/home/home.php(2): include('/home/rwuwi1oak...')
+#2 {main}
+  thrown in /home/rwuwi1oak0t8/public_html/modules/shared/bdd-connexion.php on line 10

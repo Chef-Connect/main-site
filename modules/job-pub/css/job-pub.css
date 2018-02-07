@@ -1,0 +1,178 @@
+a { 
+    text-decoration: none; 
+    color: rgb(50,50,50); 
+} 
+/*middle-container*/
+.job-listing{
+    background-color:white;
+}
+.job-content h1{
+    font-family:"montserrat";
+    font-size:38px;
+    font-weight:400;
+    letter-spacing: 10px;
+    color:white;
+    text-transform: uppercase;
+}
+.job-content h1 span{
+    font-weight:700;
+}
+.job-content{
+    display: inline-block;
+    vertical-align: middle;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.job-filter .job-position{
+    color:white;
+    font-size:22px;
+    text-transform: uppercase;
+    padding-top:30px;
+    font-family: "Montserrat";
+}
+.job-image{
+    display:inline-block;
+    background-image:url("../../../assets/img/job-listing.jpg");
+    background-position-y: 40%;
+    height:400px;
+    width:100%;
+    background-size:cover;
+    position:relative;
+}
+.job-filter{
+    background-color:rgba(0,0,0,0.3);
+    height:400px;
+    width:100%;
+
+}
+/*main-container*/
+.main-container{
+
+}
+.content-container{
+    display:inline-block;
+    padding:30px 50px;
+    transition:all 0.2s ease-in-out;
+    background-color:white; 
+    width:60%;
+}
+.content-container h2{
+    font-family: "montserrat";
+    font-size:20px;
+    color:#292929;
+    text-align:left;
+    font-weight:700;
+    color:rgb(243,38,59);
+    text-transform: uppercase;
+    margin:30px 0;
+}
+.content-container p{
+    font-family: "montserrat";
+    font-size:15px;
+    font-weight:400;
+    color:#666;
+    text-align:left;
+    line-height:20px;
+}
+.content-container p span{
+    color:rgb(243,38,59);
+    font-weight:700;
+}
+/*job-detail*/
+.detail-container{
+    display:inline-block;
+    vertical-align: top;
+    font-family: "montserrat";
+}
+.detail-container h1{
+    font-size:20px;
+    color:rgb(243,38,59);
+    font-weight:700;
+    padding-top:60px;
+}
+.container{
+    border-bottom: 1px solid rgb(243,38,59);
+    width:250px;
+}
+.content{
+    display: inline-block;
+    vertical-align: middle;
+    padding:10px;
+    color:rgb(100,100,100);
+    font-size:13px;
+}
+.detail-container h2{
+    padding-bottom:5px;
+}
+.img-picto-3{
+    height:18px;
+    width:13px;
+    display:inline-block;
+    vertical-align:middle;
+    margin: 0 8px 0 8px;
+}
+.job-listing i{
+    font-size:20px;
+}
+
+/*btn-apply*/
+.btn-container{
+    width:250px;   
+    background-color: rgb(243,38,59);
+    position:relative;
+    margin:auto;
+    transition:all 0.2s ease-in-out;
+    border-radius:7px; 
+    color:white;
+    text-transform: uppercase;
+    font-family: "montserrat";
+    font-size:13px;
+    font-weight:700;
+    text-align:center;
+    padding:20px;
+    margin-top:20px; 
+}
+.btn-container.transparent{
+    background-color:white;
+    color:rgb(50,50,50);
+    border:2px solid rgb(50,50,50);
+}
+.btn-container:hover{
+    transform: scale(1.05);
+    cursor:pointer;
+}
+/*media querries */
+@media screen and (max-width:1050px){
+    .job-content h1{
+        font-size:30px;
+    }
+    .content-container{
+        width:100%;
+        display:block;
+        
+    }
+    .content-container p{
+        
+    }
+    .detail-container{
+        padding:0 50px 50px 50px;
+    }
+    .detail-container .detail-wrapper{
+        display:inline-block;
+        margin:auto;
+        padding:0 30px 0 0;
+        
+    }
+    .detail-container .btn-wrapper{
+       display: inline-block;
+       margin:auto;
+    }
+}
+@media screen and (max-width:700px){
+    .job-content h1{
+        font-size:24px;
+        letter-spacing: 0;
+    }
+}   

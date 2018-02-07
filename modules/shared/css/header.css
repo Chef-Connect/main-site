@@ -1,0 +1,157 @@
+
+.header{
+    position: fixed;
+    width:100%;
+    z-index:1;
+    padding: 10px 10px;
+    font-family: "Montserrat";
+}
+.darken-header.header{
+    background-color:rgba(73,83,91,0.7);
+    animation: header-appear 1s ease;
+}
+
+@keyframes header-appear{
+    0%{
+        background-color:rgba(73,83,91,0);
+    }
+    100%{
+        background-color:rgba(73,83,91,0.7);
+    }
+}
+
+/* LEFT PART */
+.header .nav-left-part{
+
+}
+.header .logo{
+    display: inline-block;
+    vertical-align: middle;
+    height:50px;
+}
+.header .menu-item{
+    color:white;
+    text-transform: uppercase;
+    font-weight:700;
+    font-size:14px;
+    display:inline-block;
+    vertical-align: middle;
+    margin:0 5px;
+}
+
+/* RIGHT PART */
+.header .nav-right-part{
+    position:absolute;
+    right:10px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.header .nav-right-part .menu-item{
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    cursor:pointer;
+}
+
+.header .menu-item.explore{
+    background-color: rgb(243,38,59);
+    color:white;
+    border:2px solid rgb(243,38,59);
+    padding:10px 25px;
+    margin: 0 20px;
+}
+
+.header .nav-right-part .menu-item.explore:hover{
+    transform: scale(1.05);
+}
+.header .nav-right-part .menu-item.employer:hover{
+    color:rgb(243,38,59);
+}
+.burger-container{
+    display: inline-block;
+    vertical-align: middle;
+    position:relative;
+    cursor: pointer;
+}
+.burger-container .border{
+    height:4px;
+    width:32px;
+    background-color:white;
+    padding:2px;
+    margin:5px;
+    border-radius:3px;
+}
+.burger-slide-container{
+    display: none;
+    background-color:rgba(255,255,255,0.9);
+    width:180px;
+    border-top-left-radius:5px;
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    position:absolute;
+    right:5px;
+    top:50px;
+    padding:15px 10px;
+    text-align:left;
+}
+
+.show-burger .burger-slide-container{
+    display: block;
+    animation:burgerAppear 0.5s ease;
+}
+.burger-slide-container h2{
+    
+    text-align:right;
+    font-weight: 700;
+}
+.menu-item-show-burger{
+    display: inline-block;
+    padding:10px 15px;
+
+}
+.burger-slide-container h2:hover{
+    color:rgb(243,38,59);
+}
+.burger-slide-container i{
+    display:inline-block;
+    font-size:20px;
+}
+.menu-item-burger{
+    display:none;
+}
+.menu-item-burger .picto{
+    height:20px;
+    margin-left:4px;
+}
+.burger-triangle{
+    position:absolute;
+    top:-10px;
+    right:6px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 10px 10px 10px;
+    border-color: transparent transparent rgba(255,255,255,0.9) transparent;
+}
+/* animation */
+@keyframes burgerAppear{
+    0%{
+        opacity:0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+/*media queries*/
+@media all and (max-width:700px){
+    .header .nav-right-part .menu-item{
+        display: none;
+    }
+    .menu-item-burger{
+        display: block;
+    }
+}
+@media all and (max-width:510px){
+    .header{
+        position:absolute;
+    }
+}

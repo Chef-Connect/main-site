@@ -1,0 +1,214 @@
+
+/*img-container */
+.img{
+    background-image:url("../../../assets/img/home-image.jpg");
+    height:40vh;
+    width:100%;
+    background-size:cover; 
+    background-position-y: 195%;
+    background-attachment: fixed;
+    z-index:0; 
+    position:relative;
+}
+.img-filter{
+    background-color:rgba(0,0,0,0.5);
+    height:40vh;
+    width:100%;
+    z-index:-1;
+}
+.img-filter h1{
+    color:white;
+    font-family:"montserrat";
+    font-size:40px;
+    font-weight:700;
+    position:absolute;
+    top:50%;
+    transform: translateY(-50%);
+    width:100%;
+    text-align: center;
+}
+/*main-container*/
+.main-container{
+    background-color:rgb(240,240,240);
+    padding:60px;
+}
+.job-listing{
+    width:80%;
+    height:170px;
+    border-radius:5px;
+    background-color:white;
+    margin:auto;
+    margin-top:28px;
+    margin-bottom:28px;
+    transition:all 0.2s ease-in-out;
+}
+.job-image.logo{
+    background-image: url("../../../assets/img/logo-rvb-aligné.png");
+    background-size:cover;
+    height:75px;
+    border-radius:0;
+    margin-left:50px;
+}
+.job-listing.nojob{
+    height:100px;
+    padding:10px;
+    text-align: center;
+}
+.details-container .details{
+    font-family: "Montserrat";
+    color:rgb(130,136,141);
+    font-size:14px;
+    display:inline-block;
+    margin:10px 20px 0 0px;
+    vertical-align: bottom; 
+}
+.job-content .job-provider{
+    font-family:"montserrat";
+    color:rgb(100,100,100);
+    font-size:14px;
+    font-weight:400;
+}
+.job-content .job-title{
+    text-transform:uppercase;
+    font-family:"montserrat";
+    font-weight:700;
+    color:rgb(50,50,50);
+    margin-top:10px;
+    margin-bottom:10px;
+    font-size:20px;
+}
+.job-content h1{
+    color:rgb(50,50,50);
+    font-size:17px;
+    font-family: "Montserrat";
+    text-align: center;
+    vertical-align: middle;
+    margin-left:50px;
+    line-height: 26px;
+}
+
+.city{ 
+    border-right: 1px solid #666;
+    padding-right:18px;
+}
+.img-picto{
+    height:18px;
+    width:15px;
+    display:inline-block;
+    vertical-align:bottom;
+}
+.job-content{
+    display: inline-block;
+    vertical-align: middle;
+    margin-left:50px;
+}
+.job-image{
+    display:inline-block;
+    height:170px;
+    width:280px;
+    background-size:cover;
+    vertical-align:middle; 
+    border-top-left-radius:7px;
+    border-bottom-left-radius:7px;
+}
+.button-container{
+    width:300px;   
+    border: 1px solid rgb(243,38,59);
+    height:50px;
+    display: inline-block;
+    position:relative;
+    text-align:center;
+    margin:50px 20px 50px 20px;
+    color:#292929;
+    cursor:pointer;
+}
+.button{
+    font-family: "montserrat";
+    font-size:16px;
+    text-transform: uppercase;
+    font-weight:400;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.btn-page{
+    text-align:center;
+}
+.button-container:hover{
+    background-color:rgb(243,38,59);
+    transition:all 0.4s ease;
+    color:white;
+}
+.job-listing:hover{
+    transform: scale(1.03);
+    cursor:pointer;
+}
+/*media queries*/
+@media all and (max-width:1150px){
+    .job-content h1{
+        font-size:14px;
+    }
+    .job-image.logo{
+        height:40px;
+        width:150px;
+    }
+}
+@media all and (max-width:900px){
+    .img{
+        background-attachment: initial;
+    }
+    .job-content{
+        display:block;
+        background-color:white;
+        width:280px;
+        margin-left:0;
+        padding:20px 0 50px 10px;
+        border-bottom-left-radius:5px;
+        border-bottom-right-radius:5px;
+    }
+    .job-listing{
+        width:280px;
+        margin:0px auto 240px auto;
+    }
+    .job-image{
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 0; 
+        border-bottom:4px solid rgb(243,38,59);
+    }
+    .img-filter h1{
+        font-size:35px;
+        letter-spacing: 0.4px; 
+    }
+    .main-container{
+        padding:40px 10px 30px 10px;
+    }
+    .job-content .job-title{
+        border-bottom:1px solid rgb(190,193,196);
+        padding-bottom:20px;
+        width:95%;
+    }
+    .job-listing.nojob{
+        padding:0;
+    }
+    .job-image.logo{
+        margin-left:0;
+        text-align:center;
+        border-bottom:0;
+        margin-top:20px;
+    }
+    .job-content h1{
+        margin:0;
+        text-align:center;
+        font-size:13px;
+    }
+    
+}
+@media all and (max-width:700px){
+    .img-filter h1{
+        font-size:28px;
+    }
+
+}
+
