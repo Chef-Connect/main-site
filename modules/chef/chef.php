@@ -26,14 +26,7 @@ $inHome = true;
         <link href="css/chef.css" rel="stylesheet" type="text/css" media="all" />
         <link href="../../font-awesome/public/css/fontello.css" rel="stylesheet"/>
     </head>
-            <style type="text/css"> 
-<!-- 
-    a { 
-        text-decoration: none; 
-        color: rgb(50,50,50); 
-    } 
---> 
-</style>
+
     <body>
         <?php include('../shared/header.php'); ?>
         <div class="img"></div> 
