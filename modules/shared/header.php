@@ -10,6 +10,7 @@
     <div class="nav-right-part">
         <a href="../chef/chef.php"><div class="menu-item employer"> I am an employer </div></a>
         <a href="../job-listing/job.php"><div class="menu-item explore"> Explore jobs </div></a>
+        <a href="../blog/blog.php"><div class="menu-item employer"> Blog </div></a>
         <div class="burger-container" id="burger-container"> 
             <div class="border"> </div>
             <div class="border"> </div>

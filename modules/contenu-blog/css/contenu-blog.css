@@ -1,0 +1,43 @@
+body{
+    font-family: "Montserrat";
+}
+/*middle-container*/
+.img{
+    background-image:url("../../../assets/img/australia.jpg");
+    height:65vh;
+    width:100%;
+    background-size:cover; 
+    background-position-y: 50%;
+
+}
+h1{
+    color:rgb(50,50,50);
+    width:100%;
+    font-size:30px;
+    font-weight:700;
+    text-align:center;
+    text-transform: uppercase;
+    margin-top:50px;
+}
+.border-bottom{
+    border-bottom:2px solid rgb(243,38,59);
+    width:40%;
+    margin:20px auto;
+
+}
+.content-container{
+    color:rgb(80,80,80);
+    font-size:18px;
+    padding:50px;
+    text-align:left;
+    width:60%;
+    margin:auto;
+    line-height:30px;
+}
+.paragraph{
+    padding:15px 0;
+}
+.paragraph span{
+    color:rgb(243,38,59);
+    font-weight:700;
+}

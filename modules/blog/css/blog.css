@@ -1,0 +1,137 @@
+a{
+    text-decoration:none;
+    color:rgb(50,50,50);
+}
+.page-container{
+    text-align:center;
+    font-size: 0;
+}
+.page-container .title{
+    width:300px;
+    margin-left:140px;
+    margin-top:80px;
+}
+
+.content-container{
+    width:70%;
+    max-width:1200px;
+    margin:auto;
+    padding:100px 0;
+
+}
+.row-container{
+    margin:5px 0;
+}
+
+/* SHARED PROPERTIES */
+.article-container{
+    display:inline-block;
+    vertical-align: top;
+    position:relative;
+    border-radius:3px;
+    transition:all 0.3s ease;
+    background-position-y: 30%;
+    background-size:cover;
+}
+.void-container{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+.void-horizontal-container{
+    display:block;
+    height:5px;
+    
+}
+.article-filter{
+    background-color:rgba(0,0,0,0.5);
+    width:100%;
+    height:100%;
+    border-radius:3px;
+    transition:all 0.3s ease;
+}
+
+.article-container h1{
+    color:white;
+    font-size:22px;
+    width:90%;
+    font-family: "Montserrat";
+    text-transform: uppercase;
+    font-weight: 700;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    line-height: 28px;
+}
+.article-container:hover{
+    cursor:pointer;
+    
+}
+.article-container:hover .article-filter{
+    background-color:rgba(0,0,0,0.2);
+}
+
+/* TOP CONTAINER */
+.top-container .article-container{
+    width:49.5%;
+    height:350px;
+}
+.top-container .void-container{
+    width:1%;
+    height:350px;
+}
+
+/* MIDDLE CONTAINER */
+.middle-container .article-container{
+    width:33%;
+    height:250px;
+    background-image: url("../../../assets/img/employer-plate.jpeg");
+}
+.middle-container .void-container{
+    width:0.5%;
+    height:250px;
+}
+.middle-container h1{
+    font-size:18px;
+}
+
+/* BOTTOM CONTAINER */
+.bottom-container .article-container{
+    width:100%;
+    height:350px;
+    background-image: url("../../../assets/img/employer-plate.jpeg");
+}
+.bottom-container h1{
+    font-size:28px;
+}
+.btn-page{
+    display:block;
+}
+.btn-container{
+    width:300px;   
+    border: 1px solid rgb(243,38,59);
+    height:50px;
+    display: inline-block;
+    position:relative;
+    text-align:center;
+    margin:50px auto;
+    color:#292929;
+    cursor:pointer;
+}
+.btn{
+    font-family: "montserrat";
+    font-size:16px;
+    text-transform: uppercase;
+    font-weight:400;
+    position:absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+.btn-container:hover{
+    background-color:rgb(243,38,59);
+    transition:all 0.4s ease;
+    color:white;
+}
+

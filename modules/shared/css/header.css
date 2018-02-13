@@ -71,6 +71,11 @@
     vertical-align: middle;
     position:relative;
     cursor: pointer;
+    
+}
+
+.burger-container a{
+    color:rgb(50,50,50);
 }
 .burger-container .border{
     height:4px;
@@ -97,6 +102,7 @@
 .show-burger .burger-slide-container{
     display: block;
     animation:burgerAppear 0.5s ease;
+    box-shadow: 1px 1px 10px 1px rgb(210,210,210);
 }
 .burger-slide-container h2{
     
@@ -106,6 +112,7 @@
 .menu-item-show-burger{
     display: inline-block;
     padding:10px 15px;
+    
 
 }
 .burger-slide-container h2:hover{

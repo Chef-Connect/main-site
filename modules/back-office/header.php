@@ -7,6 +7,7 @@
         </a>
         <div class="nav-container">
             <a href="back-office.php"><div class="nav-item">New job</div></a>
+            <a href="add-blog.php"><div class="nav-item">New blog</div></a>
             <a href="applications.php"><div class="nav-item">Applications</div></a>
             <a href="employers.php"><div class="nav-item">Employers</div></a>
             <a href="job-listing.php"><div class="nav-item">Job listing</div></a>

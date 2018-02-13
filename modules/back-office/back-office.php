@@ -12,14 +12,6 @@
         <link href="css/header.css" rel="stylesheet" type="text/css" media="all" />
         <link href="css/back-office.css" rel="stylesheet" type="text/css" media="all" />
     </head>
-            <style type="text/css"> 
-<!-- 
-    a { 
-        text-decoration: none; 
-        color: white; 
-    } 
---> 
-</style>
 
     <body>
         <div class="page-container">
